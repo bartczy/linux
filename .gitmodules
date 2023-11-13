@@ -1,0 +1,3 @@
+[submodule "sub_repozytorium"]
+	path = sub_repozytorium
+	url = git@github.com:bartczy/sub_repozytorium.git
